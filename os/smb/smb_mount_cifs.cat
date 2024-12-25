@@ -1,0 +1,2 @@
+#mkdir -p /root/szl1160710 && time mount -t cifs -o username=root,password=UnionBigData_123. //172.27.8.146/root/szl1160710 /root/szl1160710
+mkdir -p /root/szl1160710 && time mount -t cifs -o username=root,password=UnionBigData_123. //172.27.12.244/root/szl1160710 /root/szl1160710

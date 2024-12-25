@@ -1,0 +1,18 @@
+# .bashrc
+source <(kubectl completion bash)
+
+alias k=kubectl
+complete -o default -F __start_kubectl k
+
+
+alias a=karmadactl
+complete -F __start_karmadactl a
+alias km=karmadactl
+complete -F __start_karmadactl km
+
+# Main entry for cdthis.
+# cdthis is opensource software. Copyleft!2014,Pandaoknight,GNU_GPL. Partially right reserved, accroding to GNU GPL.
+if [ -f ~/.bash_cdthis ]; then
+    . ~/.bash_cdthis
+    fi
+alias cdthis='. /root/szl1160710/install/tools/cdthis/cdthis /root/szl1160710/install/tools/cdthis'

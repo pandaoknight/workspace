@@ -1,0 +1,5 @@
+
+mkdir -p /data/szl1160710 && mount -t nfs 172.27.12.244:/root/szl1160710 /data/szl1160710 && ln -s /data/szl1160710 /root/szl1160710
+
+
+#mkdir -p /root/szl1160710 && mount -t nfs 172.27.12.244:/root/szl1160710 /root/szl1160710

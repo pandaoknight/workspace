@@ -1,0 +1,11 @@
+deb http://172.27.8.220/repository/apt-proxy focal-backports main restricted universe multiverse
+deb http://172.27.8.220/repository/apt-proxy focal main restricted
+deb http://172.27.8.220/repository/apt-proxy focal multiverse
+deb http://172.27.8.220/repository/apt-proxy focal-security main restricted
+deb http://172.27.8.220/repository/apt-proxy focal-security multiverse
+deb http://172.27.8.220/repository/apt-proxy focal-security universe
+deb http://172.27.8.220/repository/apt-proxy focal universe
+deb http://172.27.8.220/repository/apt-proxy focal-updates main restricted
+deb http://172.27.8.220/repository/apt-proxy focal-updates multiverse
+deb http://172.27.8.220/repository/apt-proxy focal-updates universe
+

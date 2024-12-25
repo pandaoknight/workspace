@@ -1,0 +1,9 @@
+ImagePullBackOff: "Back-off pulling image \"calico/cni:v3.8.2\""
+ImagePullBackOff: "Back-off pulling image \"k8s.gcr.io/coredns:1.6.7\""
+ImagePullBackOff: "Back-off pulling image \"calico/kube-controllers:v3.8.2\""
+ImagePullBackOff: "Back-off pulling image \"k8s.gcr.io/coredns:1.6.7\""
+ImagePullBackOff: "Back-off pulling image \"k8s.gcr.io/kube-proxy:v1.18.8\""
+ImagePullBackOff: "Back-off pulling image \"nvcr.io/nvidia/k8s-device-plugin:v0.14.0\""
+ImagePullBackOff: "Back-off pulling image \"calico/cni:v3.8.2\""
+ImagePullBackOff: "Back-off pulling image \"k8s.gcr.io/coredns:1.6.7\""
+
